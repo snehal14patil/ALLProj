@@ -1,0 +1,19 @@
+.medical-container {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.medical-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.medical-header input {
+  width: 250px;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}

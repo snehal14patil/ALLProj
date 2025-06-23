@@ -1,0 +1,39 @@
+.billing-container {
+  background: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+.billing-cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.billing-card {
+  flex: 1;
+  min-width: 200px;
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 8px;
+  color: #1e293b;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.06);
+  text-align: center;
+}
+
+.billing-card h6 {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+  color: #475569;
+}
+
+.billing-card p {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.bg-light-blue { background-color: #e0f2fe; }
+.bg-light-green { background-color: #d1fae5; }
+.bg-light-yellow { background-color: #fef9c3; }
