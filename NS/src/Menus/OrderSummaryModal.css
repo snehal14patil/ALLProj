@@ -1,0 +1,119 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 25px 20px;
+  width: 400px;
+  border-radius: 12px;
+  position: relative;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  animation: slideUp 0.4s ease;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal-heading {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #444;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.price-breakdown {
+  margin-bottom: 18px;
+  font-size: 15px;
+  color: #333;
+}
+
+.price-breakdown p {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.mrp {
+  color: #555;
+}
+
+.discount {
+  color: #e53935;
+  font-weight: bold;
+}
+
+.free-badge {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.total-amount {
+  font-size: 20px;
+  margin: 18px 0;
+  color: #000;
+  font-weight: bold;
+  border-top: 1px dashed #ddd;
+  padding-top: 12px;
+}
+
+.place-order-btn {
+  background-color: #ff3366;
+  color: white;
+  border: none;
+  padding: 14px;
+  border-radius: 6px;
+  width: 100%;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 4px 12px rgba(255, 51, 102, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.place-order-btn:hover {
+  background-color: #e02e5b;
+  transform: translateY(-2px);
+}
+
+.close-modal-btn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  color: #666;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.close-modal-btn:hover {
+  color: #000;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { background-color: rgba(0, 0, 0, 0); }
+  to { background-color: rgba(0, 0, 0, 0.6); }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}

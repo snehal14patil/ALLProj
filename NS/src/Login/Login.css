@@ -1,0 +1,37 @@
+/* Background Image */
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("../images/LoginBack.jpg") no-repeat center center/cover;
+}
+
+/* Centering the login card */
+.login-container {
+  width: 100%;
+  max-width: 380px;
+}
+
+/* Styling the card */
+.login-card {
+  background: rgba(255, 255, 255, 0.9); /* Slight transparency for readability */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Form fields */
+.form-control {
+  border-radius: 5px;
+}
+
+/* Button Styling */
+.btn-primary {
+  background-color: #0056b3;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #004494;
+}

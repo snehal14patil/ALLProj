@@ -1,0 +1,90 @@
+/* Register Page Styling */
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url("../images/registerback.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+/* Adding a gradient overlay */
+.register-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(110, 142, 251, 0.6), rgba(167, 119, 227, 0.6));
+    z-index: 1;
+}
+
+/* Register box styling */
+.register-box {
+    position: relative;
+    z-index: 2;
+    width: 350px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Headings */
+.register-box h2 {
+    margin-bottom: 20px;
+    color: #333;
+    font-family: emoji;
+}
+
+/* Input fields */
+.register-box input {
+    width: 96%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s ease-in-out;
+}
+
+.register-box input:focus {
+    border-color: #6e8efb;
+    box-shadow: 0px 0px 5px rgba(110, 142, 251, 0.5);
+}
+
+/* Button */
+.register-box button {
+    width: 100%;
+    padding: 12px;
+    background: #6e8efb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.register-box button:hover {
+    background: #5a78d1;
+}
+
+/* Links */
+.register-box p {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.register-box a {
+    color: #6e8efb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.register-box a:hover {
+    text-decoration: underline;
+}

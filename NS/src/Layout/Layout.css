@@ -1,0 +1,20 @@
+.layout {
+    display: flex;
+    height: 100vh;
+  
+  }
+  
+  .sidebar-open {
+    margin-left: 250px; /* Adjust according to your sidebar width */
+  }
+  
+  .sidebar-closed {
+    margin-left: 70px; /* Adjust to the width when sidebar is collapsed */
+  }
+  
+  .content-area {
+    flex-grow: 1;
+    transition: margin-left 0.3s;
+    padding: 20px;
+  }
+  
