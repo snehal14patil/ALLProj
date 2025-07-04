@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MProj\\NS API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|d:\\mproj\\ns api\\ns api\\controllers\\nsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\controllers\\nsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|D:\\MProj\\NS API\\ns api\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC51432-5FE6-4190-8701-1209EA7812A0}|NS API\\NS API.csproj|solutionrelative:ns api\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 426,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Web.config",
+              "RelativeDocumentMoniker": "NS API\\Web.config",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Web.config",
+              "RelativeToolTip": "NS API\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T12:11:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\Orders.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\Orders.cs",
+              "RelativeToolTip": "NS API\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:03:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NS API\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NS API\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:48:19.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\SqlHelper.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\SqlHelper.cs",
+              "RelativeToolTip": "NS API\\Models\\SqlHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwPwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:48:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\Register.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\Register.cs",
+              "RelativeToolTip": "NS API\\Models\\Register.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:47:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\Products.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\Products.cs",
+              "RelativeToolTip": "NS API\\Models\\Products.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:46:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\UserManagement.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\UserManagement.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\UserManagement.cs",
+              "RelativeToolTip": "NS API\\Models\\UserManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:46:24.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "NS API\\Models\\Login.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Models\\Login.cs",
+              "RelativeToolTip": "NS API\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:32:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NSApiController.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\Controllers\\NSApiController.cs",
+              "RelativeDocumentMoniker": "NS API\\Controllers\\NSApiController.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\Controllers\\NSApiController.cs",
+              "RelativeToolTip": "NS API\\Controllers\\NSApiController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:09:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\MProj\\NS API\\NS API\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "NS API\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\MProj\\NS API\\NS API\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "NS API\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:48:25.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
