@@ -43,49 +43,49 @@ function SidebarLayout() {
        
         <ul className="nav-links">
           <li>
-            <Link to="/dashboard">
+            <Link to="dashboard">
               <FaTachometerAlt className="icon" /> {!collapsed && 'Dashboard'}
             </Link>
           </li>
           {role === "Admin" && (
             <li>
-              <Link to="/patient-records">
+              <Link to="patient-records">
                 <FaUsers className="icon" /> {!collapsed && 'Patients Records'}
               </Link>
             </li>
           )}
           <li>
-            <Link to="/appointments">
+            <Link to="appointments">
               <FaCalendarAlt className="icon" /> {!collapsed && 'Appointments Overview'}
             </Link>
           </li>
           <li>
-            <Link to="/health-metrics">
+            <Link to="health-metrics">
               <FaChartBar className="icon" /> {!collapsed && 'Health Metrics'}
             </Link>
           </li>
           <li>
-            <Link to="/user-management">
+            <Link to="user-management">
               <FaUserCog className="icon" /> {!collapsed && 'User Management'}
             </Link>
           </li>
           <li>
-            <Link to="/analytics-reports">
+            <Link to="analytics-reports">
               <FaChartBar className="icon" /> {!collapsed && 'Analytics / Reports'}
             </Link>
           </li>
           <li>
-            <Link to="/medical-history">
+            <Link to="medical-history">
               <FaFileMedicalAlt className="icon" /> {!collapsed && 'Medical History'}
             </Link>
           </li>
           <li>
-            <Link to="/billing-payments">
+            <Link to="billing-payments">
               <FaMoneyBillWave className="icon" /> {!collapsed && 'Billing & Payments'}
             </Link>
           </li>
           <li>
-            <Link to="/notifications-alert">
+            <Link to="notifications-alert">
               <FaBell className="icon" /> {!collapsed && 'Notifications & Alerts'}
             </Link>
           </li>
